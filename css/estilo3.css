@@ -1,0 +1,47 @@
+/* ESTILO 3 - Replica foto oscura neon */
+body{
+    margin:0;
+    font-family: Arial, sans-serif;
+    background: #121212;
+    color: white;
+}
+header{
+    background: linear-gradient(#2a3335, #111a1a);
+    text-align: center;
+    padding: 50px 20px;
+}
+header h1{color:#7ee8e8; margin:0;}
+header p{color:#ccc; font-size:13px;}
+nav{
+    background: #000;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 15px;
+}
+nav a{color:#5ee1e6; text-decoration:none; font-size:13px;}
+main{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 30px 15px;
+    background: #121212;
+}
+section{
+    background: #222e2e;
+    border: 1.5px solid #4ecdc4;
+    border-radius: 12px;
+    padding: 20px;
+    width: 30%;
+}
+section h2{color:#5ee1e6; margin-top:0;}
+section p{font-size:12px;}
+button{
+    background: #7ee8e8;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 12px;
+    font-size: 11px;
+    color: #003333;
+}
+footer{text-align:center; color:#888; font-size:11px; padding:15px;}

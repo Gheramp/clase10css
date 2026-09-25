@@ -1,0 +1,50 @@
+/* ESTILO 2 - Replica foto fondo blanco 3 columnas */
+body{
+    margin:0;
+    font-family: Arial, sans-serif;
+    background-color: #0e0e0e;
+}
+header{
+    background-color: #0a0a0a;
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+}
+header h1{margin:0; font-size:28px;}
+header p{font-size:13px; margin-top:8px; color:#ddd;}
+nav{
+    background-color: #2e2e2e;
+    text-align: center;
+    padding: 12px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 13px;
+}
+main{
+    display: flex;
+    background-color: #eeeeee;
+    padding: 40px 20px;
+    gap: 30px;
+}
+section{width: 33%;}
+section h2{font-size: 18px; color: black;}
+section p{font-size: 12px; color: #333;}
+button{
+    background-color: #1e1e1e;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    font-size: 11px;
+    cursor: pointer;
+}
+footer{
+    background-color: #0a0a0a;
+    color: white;
+    text-align: center;
+    font-size: 11px;
+    padding: 12px;
+}

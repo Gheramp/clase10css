@@ -1,0 +1,50 @@
+/* ESTILO 1 - Replica foto edigital.cesde */
+body{
+    margin:0;
+    font-family: Arial, sans-serif;
+    background-color: white;
+}
+header{
+    background-color: #a8d5d8;
+    padding: 15px 20px;
+    color: black;
+}
+header h1{font-size: 18px; margin:0;}
+header p{font-size: 11px; margin:5px 0 0 0;}
+nav{
+    background-color: #1e2a5a;
+    padding: 8px 20px;
+}
+nav a{
+    color: white;
+    font-size: 11px;
+    text-decoration: underline;
+    margin-right: 10px;
+}
+main{
+    padding: 15px;
+    background-color: #f9f9f9;
+}
+section{
+    background-color: white;
+    border: 1px solid #555;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+section h2{font-size: 14px; margin:0 0 5px 0;}
+section p{font-size: 11px; margin:0 0 8px 0;}
+button{
+    background-color: #2a7de1;
+    color: white;
+    border: none;
+    font-size: 10px;
+    padding: 5px 8px;
+    cursor: pointer;
+}
+footer{
+    background-color: #d6d6d6;
+    text-align: center;
+    font-size: 10px;
+    padding: 10px;
+    margin: 10px 15px;
+}
